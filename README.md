@@ -1,2 +1,2 @@
 # django_study
-some demo
+A easy django demo in django version 2.1.5
